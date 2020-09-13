@@ -1,0 +1,31 @@
+h1 {
+    color: green;
+    text-align:center;
+    font-size:60px;
+}
+h2 {
+    text-align: center;
+    font-size: 60px;
+}
+
+img {
+    float:left;
+    display:block;
+    padding-right:25px;
+}
+.text {
+    font-size: 30px;
+    font-family: italic;
+}
+p {
+    font-size:30px;
+}
+a {
+    font-size:30px;
+}
+a:link {
+    text-decoration:none;
+}
+a:link:hover {
+    text-decoration:underline;
+}
